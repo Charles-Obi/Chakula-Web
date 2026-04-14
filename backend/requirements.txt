@@ -1,0 +1,9 @@
+fastapi==0.135.2
+uvicorn==0.42.0
+pydantic==2.12.5
+passlib==1.7.4
+bcrypt==4.0.1
+python-jose==3.5.0
+cryptography==46.0.6
+python-multipart==0.0.22
+starlette==1.0.0
